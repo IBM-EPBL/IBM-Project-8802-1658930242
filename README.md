@@ -27,7 +27,7 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
         - [x] Propsed Solution <br>
         - [x] Problem Solution Fit <br>
         - [x] Solution Architecture <br>
-    - Project Design Phase I
+    - Project Design Phase II
         - [x] Propsed Solution <br>
     - Project Planning Phase
         - [x] Jira Project Files
