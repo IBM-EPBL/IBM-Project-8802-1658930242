@@ -28,7 +28,10 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
         - [x] Problem Solution Fit <br>
         - [x] Solution Architecture <br>
     - Project Design Phase II
-        - [x] Propsed Solution <br>
+        - [x] Customer/User Journey Map <br>
+        - [x] Data Flow Diagrams and User Stories <br>
+        - [x] Solution Requirements (Function & Non-Functional) <br>
+        - [x] Technology Architecture <br>
     - Project Planning Phase
         - [x] Jira Project Files
             - Road Map
