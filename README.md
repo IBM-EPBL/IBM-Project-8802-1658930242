@@ -31,7 +31,7 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
         - [x] Propsed Solution <br>
     - Project Planning Phase
         - [x] Jira Project Files
-            - [x] Road Map
+            - Road Map
         - [x] Project Planning
 - Assignments
     -  [x] Assignment 1 <br>
