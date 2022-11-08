@@ -28,7 +28,7 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
         - [x] Problem Solution Fit <br>
         - [x] Solution Architecture <br>
     - Project Design Phase I
-        - [x] Propsed Solution <br>
+        - [x] Propsed Solution <br><br>
 - Assignments
     -  [x] Assignment 1 <br>
     -  [x] Assignment 2  <br>    
