@@ -13,10 +13,27 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
         <h2 align="center" style="margin-top:50px"> Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine Learning
         <br><br>TeamID: PNT2022TMID00510</h2>
     </div>
-
 <br>
 
-## Tasks Completed 
+## Tasks Completed
+- Data Collection
+    - Fuel Consumption
+- Data Preprocessing
+    - Data Preprocessing
+- Final Deliverables
+    - Completed Code
+    - Dataset
+    - Project Report
+- Model Building
+    - Model Building
+- Prerequisites
+    - Install_Python-Packages
+    - Prerequisites-IBM
+- Project Development Phase
+    - Sprint-1
+    - Sprint-2
+    - Sprint-3
+    - Sprint-4
 - Project Design And Planning
     - Ideation Phase
         -  [x] Literature Survey <br>
@@ -36,8 +53,31 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
         - [x] Jira Project Files
             - Road Map
         - [x] Project Planning
+- Project Flow
+    - IBM_Project-Objective
+- Project Flow
+    - Project-Objectives
+- Train The Model IBM
+    - Register Login IBM Cloud
 - Assignments
-    -  [x] Assignment 1 <br>
-    -  [x] Assignment 2  <br>    
-    -  [x] Assignment 3  <br>    
+    -  [x] Team_Leader-Praabindh
+        -  Assignment 1 <br>
+        -  Assignment 2 <br>
+        -  Assignment 3 <br>
+        -  Assignment 4 <br>
+    -  [x] Team_Member-Naavendhan
+        -  Assignment 1 <br>
+        -  Assignment 2 <br>
+        -  Assignment 3 <br>
+        -  Assignment 4 <br>
+    -  [x] Team_Member-Naveen
+        -  Assignment 1 <br>
+        -  Assignment 2 <br>
+        -  Assignment 3 <br>
+        -  Assignment 4 <br>
+    -  [x] Team_Member-Nithish
+        -  Assignment 1 <br>
+        -  Assignment 2 <br>
+        -  Assignment 3 <br>
+        -  Assignment 4 <br>
 <br>
